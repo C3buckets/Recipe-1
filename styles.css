@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(229, 223, 241);
+    font-size: 25px;
+    margin: 50px 0px 100px 20px;
+}
+
+
+img{
+    height: 200px;
+    width: 200px;
+}
+p{
+    width: 600px;
+}
+ol{
+    width: 600px;
+}
+h1,h2,h3,.section{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
